@@ -1,7 +1,7 @@
 # :iphone:| Splash Screen
 
 - :heart:| **Linguagem:** Kotlin
-- :computer:| **IDE:** Android Studio
+- :computer:| **IDE:** Android Studio Electric Eel | 2022.1.1 Patch 2
 - :woman_technologist:| **Desenvolvido por:** Nataly Coelho Nogueira
 - :calendar:| **Data:** 30/08/2023
 
